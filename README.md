@@ -110,6 +110,8 @@ allure serve allure-results
 allure generate allure-results --clean -o allure-report
 ```
 
+[![Allure Report Overview](.github/assets/allure_report.png)](https://universeqa.github.io/yandexdisk/)
+> 🔗 **[Открыть интерактивный Allure Report](https://universeqa.github.io/yandexdisk/)**
 ## Настройка CI/CD в GitHub Actions
 
 В проекте настроен автоматизированный конвейер непрерывной интеграции (`.github/workflows/tests.yml`). 
