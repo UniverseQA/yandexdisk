@@ -1,0 +1,20 @@
+{
+  "status_code": 404,
+  "elapsed_seconds": 0.348837,
+  "headers": {
+    "Date": "Tue, 22 Sep 2026 15:30:13 GMT",
+    "Transfer-Encoding": "chunked",
+    "NEL": "{\"report_to\": \"network-errors\", \"max_age\": 604800, \"success_fraction\": 0.005, \"failure_fraction\": 0.5}",
+    "Access-Control-Allow-Headers": "Authorization, Accept, X-Uid, X-Requested-With, X-Borigin, X-Yandex360-Token, Content-Type, Accept-Language, X-HTTP-Method, X-Yandex360-Login",
+    "Access-Control-Allow-Methods": "GET, POST, PUT, PATCH, DELETE, OPTIONS",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "no-cache",
+    "Content-Encoding": "gzip",
+    "Yandex-Cloud-Request-ID": "rest-9fca22433c57489aaabe09860f2f3673-disk-api-stable-extapi-75",
+    "Access-Control-Allow-Credentials": "true",
+    "Strict-Transport-Security": "max-age=31536000; preload",
+    "Report-To": "{\"group\": \"network-errors\", \"max_age\": 604800, \"endpoints\": [{\"url\": \"https://dr.yandex.net/ya360/nel\", \"priority\": 1}, {\"url\": \"https://dr2.yandex.net/ya360/nel\", \"priority\": 2}]}",
+    "Content-Type": "application/json",
+    "Vary": "Accept-Encoding"
+  }
+}
