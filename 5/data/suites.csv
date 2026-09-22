@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3467","test_delete_resource_delete","","2026-09-22","passed","2026-09-22","TestYandexDiskResources","test_disk_api","",""
+"","2216","test_create_folder_put","","2026-09-22","passed","2026-09-22","TestYandexDiskResources","test_disk_api","",""
+"","363","test_get_nonexistent_resource_not_found","","2026-09-22","passed","2026-09-22","TestYandexDiskResources","test_disk_api","",""
+"","2449","test_copy_resource_post","","2026-09-22","passed","2026-09-22","TestYandexDiskResources","test_disk_api","",""
+"","529","test_create_duplicate_folder_conflict","","2026-09-22","passed","2026-09-22","TestYandexDiskResources","test_disk_api","",""
+"","546","test_get_resource_meta_get","","2026-09-22","passed","2026-09-22","TestYandexDiskResources","test_disk_api","",""

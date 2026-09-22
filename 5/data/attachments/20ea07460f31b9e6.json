@@ -1,0 +1,22 @@
+{
+  "path": "disk:/pytest_isolated_c93eec85",
+  "type": "dir",
+  "name": "pytest_isolated_c93eec85",
+  "created": "2026-09-22T15:49:36+00:00",
+  "modified": "2026-09-22T15:49:36+00:00",
+  "_embedded": {
+    "path": "disk:/pytest_isolated_c93eec85",
+    "limit": 20,
+    "offset": 0,
+    "sort": "",
+    "total": 0,
+    "items": []
+  },
+  "resource_id": "2440376886:60447bb477d6d7122142577b4e8c0e682511f498d69f3ae6037fa210f1f11c9a",
+  "revision": 1790092176699042,
+  "comment_ids": {
+    "public_resource": "2440376886:60447bb477d6d7122142577b4e8c0e682511f498d69f3ae6037fa210f1f11c9a",
+    "private_resource": "2440376886:60447bb477d6d7122142577b4e8c0e682511f498d69f3ae6037fa210f1f11c9a"
+  },
+  "exif": {}
+}

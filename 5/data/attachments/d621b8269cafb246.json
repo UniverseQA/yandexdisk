@@ -1,0 +1,5 @@
+{
+  "method": "GET",
+  "href": "https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Ftest_dir_put_0fa935ef",
+  "templated": false
+}

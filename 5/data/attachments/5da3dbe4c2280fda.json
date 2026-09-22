@@ -1,0 +1,20 @@
+{
+  "status_code": 200,
+  "elapsed_seconds": 0.529005,
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Yandex-Cloud-Request-ID": "rest-a4353d4b3ef7ab2d1029123aa2dc6143-disk-api-stable-extapi-47",
+    "Cache-Control": "no-cache",
+    "Access-Control-Allow-Headers": "Authorization, X-Yandex360-Token, Accept-Language, X-Borigin, Accept, X-Uid, X-Yandex360-Login, X-HTTP-Method, Content-Type, X-Requested-With",
+    "Content-Type": "application/json; charset=utf-8",
+    "NEL": "{\"report_to\": \"network-errors\", \"max_age\": 604800, \"success_fraction\": 0.005, \"failure_fraction\": 0.5}",
+    "Strict-Transport-Security": "max-age=31536000; preload",
+    "Date": "Tue, 22 Sep 2026 15:49:41 GMT",
+    "Vary": "Accept-Encoding",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Credentials": "true",
+    "Report-To": "{\"group\": \"network-errors\", \"max_age\": 604800, \"endpoints\": [{\"url\": \"https://dr.yandex.net/ya360/nel\", \"priority\": 1}, {\"url\": \"https://dr2.yandex.net/ya360/nel\", \"priority\": 2}]}",
+    "Access-Control-Allow-Methods": "GET, PUT, DELETE, PATCH, OPTIONS",
+    "Content-Encoding": "gzip"
+  }
+}

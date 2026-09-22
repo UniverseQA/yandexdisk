@@ -1,0 +1,1 @@
+[{"values":["3.12.14"],"name":"Python.Version"},{"values":["Linux 6.17.0-1022-azure"],"name":"Platform"},{"values":["https://cloud-api.yandex.net"],"name":"Base.URL"},{"values":["cloud_api:disk.read cloud_api:disk.write"],"name":"Scope"}]

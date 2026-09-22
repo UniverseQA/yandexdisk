@@ -1,0 +1,14 @@
+{
+  "method": "GET",
+  "url": "https://cloud-api.yandex.net/v1/disk",
+  "params": {},
+  "headers": {
+    "User-Agent": "YandexDisk-AutoTests-Runner/1.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Authorization": "OAuth [PROTECTED]",
+    "Content-Type": "application/json"
+  },
+  "json": {}
+}
