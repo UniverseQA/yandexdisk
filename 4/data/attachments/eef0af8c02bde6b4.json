@@ -1,0 +1,22 @@
+{
+  "path": "disk:/test_dir_put_595b0775",
+  "type": "dir",
+  "name": "test_dir_put_595b0775",
+  "created": "2026-09-22T15:48:27+00:00",
+  "modified": "2026-09-22T15:48:27+00:00",
+  "_embedded": {
+    "path": "disk:/test_dir_put_595b0775",
+    "limit": 20,
+    "offset": 0,
+    "sort": "",
+    "total": 0,
+    "items": []
+  },
+  "resource_id": "2440376886:d86ebee013834f592d9caf531adf7919044309d47b932638687537d2c2edf2cd",
+  "revision": 1790092107400701,
+  "comment_ids": {
+    "public_resource": "2440376886:d86ebee013834f592d9caf531adf7919044309d47b932638687537d2c2edf2cd",
+    "private_resource": "2440376886:d86ebee013834f592d9caf531adf7919044309d47b932638687537d2c2edf2cd"
+  },
+  "exif": {}
+}

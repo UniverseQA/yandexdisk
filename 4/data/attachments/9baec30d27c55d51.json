@@ -1,0 +1,22 @@
+{
+  "path": "disk:/pytest_isolated_d390ac72_copied_2729e0",
+  "type": "dir",
+  "name": "pytest_isolated_d390ac72_copied_2729e0",
+  "created": "2026-09-22T15:48:30+00:00",
+  "modified": "2026-09-22T15:48:30+00:00",
+  "_embedded": {
+    "path": "disk:/pytest_isolated_d390ac72_copied_2729e0",
+    "limit": 20,
+    "offset": 0,
+    "sort": "",
+    "total": 0,
+    "items": []
+  },
+  "resource_id": "2440376886:c1c075829267cf0d2c625b6432008c5be03fdf02491203b0b902f37460311e56",
+  "revision": 1790092110077571,
+  "comment_ids": {
+    "public_resource": "2440376886:c1c075829267cf0d2c625b6432008c5be03fdf02491203b0b902f37460311e56",
+    "private_resource": "2440376886:c1c075829267cf0d2c625b6432008c5be03fdf02491203b0b902f37460311e56"
+  },
+  "exif": {}
+}

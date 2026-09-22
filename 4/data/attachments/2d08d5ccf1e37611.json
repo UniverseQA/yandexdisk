@@ -1,0 +1,21 @@
+{
+  "status_code": 200,
+  "elapsed_seconds": 1.314324,
+  "headers": {
+    "Vary": "Accept-Encoding",
+    "NEL": "{\"report_to\": \"network-errors\", \"max_age\": 604800, \"success_fraction\": 0.005, \"failure_fraction\": 0.5}",
+    "Date": "Tue, 22 Sep 2026 15:48:26 GMT",
+    "Cache-Control": "no-cache",
+    "Access-Control-Allow-Headers": "X-Yandex360-Token, X-Uid, X-Borigin, Accept, Accept-Language, X-Requested-With, Content-Type, Authorization, X-Yandex360-Login, X-HTTP-Method",
+    "Content-Encoding": "gzip",
+    "Access-Control-Allow-Methods": "GET, OPTIONS",
+    "Access-Control-Allow-Credentials": "true",
+    "Yandex-Cloud-Request-ID": "rest-16bebe290bd2281aa8dfbce5cf46ad9f-disk-api-stable-extapi-56",
+    "Report-To": "{\"group\": \"network-errors\", \"max_age\": 604800, \"endpoints\": [{\"url\": \"https://dr.yandex.net/ya360/nel\", \"priority\": 1}, {\"url\": \"https://dr2.yandex.net/ya360/nel\", \"priority\": 2}]}",
+    "Access-Control-Allow-Origin": "*",
+    "Strict-Transport-Security": "max-age=31536000; preload",
+    "Content-Type": "application/json; charset=utf-8",
+    "Set-Cookie": "_yasc=q+prZNHfJA7whqcsuD2xu0BKyYS0lz/dRaTwYFq5Ybn2Vwqq5wguoYqDNJhGD+Z4Utp6; domain=.yandex.net; path=/; expires=Fri, 19 Sep 2036 15:48:26 GMT; SameSite=None; Secure",
+    "Transfer-Encoding": "chunked"
+  }
+}

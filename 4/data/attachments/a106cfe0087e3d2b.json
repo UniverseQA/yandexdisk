@@ -1,0 +1,5 @@
+{
+  "error": "DiskPathPointsToExistentDirectoryError",
+  "description": "Specified path \"pytest_isolated_b0125ec9\" points to existent directory.",
+  "message": "По указанному пути \"pytest_isolated_b0125ec9\" уже существует папка с таким именем."
+}

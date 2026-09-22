@@ -1,0 +1,53 @@
+{
+  "total_space": 5368709120,
+  "used_space": 0,
+  "trash_size": 0,
+  "max_file_size": 1073741824,
+  "paid_max_file_size": 53687091200,
+  "photounlim_size": 0,
+  "system_folders": {
+    "downloads": "disk:/Загрузки/",
+    "applications": "disk:/Приложения",
+    "screenshots": "disk:/Скриншоты/",
+    "photostream": "disk:/Фотокамера/",
+    "social": "disk:/Социальные сети/",
+    "facebook": "disk:/Социальные сети/Facebook",
+    "google": "disk:/Социальные сети/Google+",
+    "instagram": "disk:/Социальные сети/Instagram",
+    "vkontakte": "disk:/Социальные сети/ВКонтакте",
+    "mailru": "disk:/Социальные сети/Мой Мир",
+    "odnoklassniki": "disk:/Социальные сети/Одноклассники",
+    "scans": "disk:/Сканы",
+    "attach": "disk:/Почтовые вложения",
+    "messenger": "disk:/Файлы Мессенджера",
+    "calendar": "disk:/Материалы встреч"
+  },
+  "is_paid": false,
+  "revision": 1790091694244199,
+  "user": {
+    "uid": "2440376886",
+    "login": "polickarpsharickov",
+    "display_name": "Поликарп Шариков",
+    "country": "de",
+    "is_child": false,
+    "reg_time": "2026-09-22T04:54:32+00:00"
+  },
+  "unlimited_autoupload_enabled": false,
+  "reg_time": "2026-09-22T04:54:32+00:00",
+  "is_idm_managed_public_access": false,
+  "is_idm_managed_folder_address_access": false,
+  "is_sync_shared_folder_desktop": false,
+  "is_sync_vd_desktop": false,
+  "payment_flow": true,
+  "hide_screenshots_in_photoslice": false,
+  "is_legal_entity": false,
+  "monthly_traffic_limit": 2,
+  "monthly_traffic_limit_upgrades": {
+    "pro": 3
+  },
+  "file_size_limit_upgrades": {
+    "paid": 53687091200,
+    "pro": 107374182400
+  },
+  "disk_size": 0
+}
