@@ -1,0 +1,16 @@
+{
+  "method": "PUT",
+  "url": "https://cloud-api.yandex.net/v1/disk/resources",
+  "params": {
+    "path": "pytest_isolated_f627eecb"
+  },
+  "headers": {
+    "User-Agent": "YandexDisk-AutoTests-Runner/1.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Authorization": "OAuth [PROTECTED]",
+    "Content-Type": "application/json"
+  },
+  "json": {}
+}
