@@ -110,7 +110,7 @@ allure serve allure-results
 allure generate allure-results --clean -o allure-report
 ```
 
-[![Allure Report Overview](.github/assets/allure_report.png)](https://universeqa.github.io/yandexdisk/)
+[![Allure Report Overview](.github/assets/allure_report.png)]
 > 🔗 **[Открыть интерактивный Allure Report](https://universeqa.github.io/yandexdisk/)**
 ## Настройка CI/CD в GitHub Actions
 
