@@ -1,0 +1,17 @@
+{
+  "status_code": 204,
+  "elapsed_seconds": 1.053932,
+  "headers": {
+    "Access-Control-Allow-Headers": "X-Requested-With, X-Yandex360-Token, Accept-Language, Authorization, Content-Type, Accept, X-Uid, X-Borigin, X-Yandex360-Login, X-HTTP-Method",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, PUT, DELETE, PATCH, OPTIONS",
+    "Date": "Wed, 23 Sep 2026 04:59:23 GMT",
+    "Strict-Transport-Security": "max-age=31536000; preload",
+    "Access-Control-Allow-Credentials": "true",
+    "Yandex-Cloud-Request-ID": "rest-ed1a72c32568a3605fa22feabe3a24af-disk-api-stable-extapi-83",
+    "Cache-Control": "no-cache",
+    "NEL": "{\"report_to\": \"network-errors\", \"max_age\": 604800, \"success_fraction\": 0.005, \"failure_fraction\": 0.5}",
+    "Content-Type": "application/json; charset=utf-8",
+    "Report-To": "{\"group\": \"network-errors\", \"max_age\": 604800, \"endpoints\": [{\"url\": \"https://dr.yandex.net/ya360/nel\", \"priority\": 1}, {\"url\": \"https://dr2.yandex.net/ya360/nel\", \"priority\": 2}]}"
+  }
+}

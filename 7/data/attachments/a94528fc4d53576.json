@@ -1,0 +1,22 @@
+{
+  "path": "disk:/pytest_isolated_ef858d7f_copied_3f3a17",
+  "type": "dir",
+  "name": "pytest_isolated_ef858d7f_copied_3f3a17",
+  "created": "2026-09-23T04:59:21+00:00",
+  "modified": "2026-09-23T04:59:21+00:00",
+  "_embedded": {
+    "path": "disk:/pytest_isolated_ef858d7f_copied_3f3a17",
+    "limit": 20,
+    "offset": 0,
+    "sort": "",
+    "total": 0,
+    "items": []
+  },
+  "resource_id": "2440376886:72211c8264a33ec37ec7af31da9fb88a7ca9275bfe8c29f4af73e128a6266bbc",
+  "revision": 1790139561370890,
+  "comment_ids": {
+    "public_resource": "2440376886:72211c8264a33ec37ec7af31da9fb88a7ca9275bfe8c29f4af73e128a6266bbc",
+    "private_resource": "2440376886:72211c8264a33ec37ec7af31da9fb88a7ca9275bfe8c29f4af73e128a6266bbc"
+  },
+  "exif": {}
+}

@@ -1,0 +1,18 @@
+{
+  "method": "POST",
+  "url": "https://cloud-api.yandex.net/v1/disk/resources/copy",
+  "params": {
+    "from": "pytest_isolated_ef858d7f",
+    "path": "pytest_isolated_ef858d7f_copied_3f3a17",
+    "overwrite": "false"
+  },
+  "headers": {
+    "User-Agent": "YandexDisk-AutoTests-Runner/1.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Authorization": "OAuth [PROTECTED]",
+    "Content-Type": "application/json"
+  },
+  "json": {}
+}

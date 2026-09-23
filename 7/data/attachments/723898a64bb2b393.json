@@ -1,0 +1,17 @@
+{
+  "method": "DELETE",
+  "url": "https://cloud-api.yandex.net/v1/disk/resources",
+  "params": {
+    "path": "test_dir_to_delete_1925b812",
+    "permanently": "true"
+  },
+  "headers": {
+    "User-Agent": "YandexDisk-AutoTests-Runner/1.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json",
+    "Connection": "keep-alive",
+    "Authorization": "OAuth [PROTECTED]",
+    "Content-Type": "application/json"
+  },
+  "json": {}
+}

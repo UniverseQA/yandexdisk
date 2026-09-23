@@ -1,0 +1,5 @@
+{
+  "method": "GET",
+  "href": "https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fpytest_isolated_ef858d7f_copied_3f3a17",
+  "templated": false
+}
